@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/sticker/:id",
+      "destination": "/index.html?id=:id"
+    }
+  ]
+}
